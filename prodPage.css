@@ -1,0 +1,25 @@
+.col-xs-2{
+	background:#EEE;
+	margin-left:-20px;
+	margin-right:10px; 
+}
+.margin{
+	margin-top:-20px;
+}
+
+.sideBar{
+padding-top:10px;
+	
+}
+.thumbnail{
+	margin-left:-25px;
+}
+
+.bagIcon{
+ align:right;
+
+}
+.custom-checkbox {
+	margin-top: 2px !important;
+	margin-bottom: 2px !important;
+}
